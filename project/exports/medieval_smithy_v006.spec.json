@@ -1,0 +1,13 @@
+{
+  "schema_version": 2,
+  "purpose": "smithy",
+  "scale": "small",
+  "silhouette": "balanced",
+  "layout": "right_wing",
+  "roof": "steep_gable",
+  "palette": "slate",
+  "detail": "balanced",
+  "seed": 17,
+  "locks": [],
+  "overrides": {}
+}

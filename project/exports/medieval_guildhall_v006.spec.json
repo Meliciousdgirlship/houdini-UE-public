@@ -1,0 +1,13 @@
+{
+  "schema_version": 2,
+  "purpose": "guildhall",
+  "scale": "large",
+  "silhouette": "balanced",
+  "layout": "tower_bridge",
+  "roof": "steep_gable",
+  "palette": "slate",
+  "detail": "rich",
+  "seed": 17,
+  "locks": [],
+  "overrides": {}
+}

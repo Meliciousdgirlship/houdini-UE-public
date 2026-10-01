@@ -1,0 +1,257 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 44,
+    "sha256": "14d0ee0e0807076d8ab7af15847e5c4c8f9c4896ca9298b3ccc5438e6163a19a"
+  },
+  {
+    "path": "building_api.py",
+    "bytes": 4192,
+    "sha256": "efddcff5029b850c086d13307130703ff136e565bdb1efc8468a2a1f1525ec55"
+  },
+  {
+    "path": "building_async.py",
+    "bytes": 12026,
+    "sha256": "c3162478dd6b0e5c6a9b297dd9fc8010318ae22137aff7d85f2f7d29f608eeae"
+  },
+  {
+    "path": "building_generator_v006_medieval_town.hipnc",
+    "bytes": 815279,
+    "sha256": "0f45c5217573d3f1deb1fcc24aba3edce69041fe8de8f919f9a3c70126cfa875"
+  },
+  {
+    "path": "building_planner.py",
+    "bytes": 2360,
+    "sha256": "93844b7ca7a438a712e89c2fcc6b25bda34987fb334f7fb0b337bd93da4ef13f"
+  },
+  {
+    "path": "building_tool_layout.py",
+    "bytes": 6478,
+    "sha256": "4455e8f22e7eca7b82411a6b489f63b4c6747553abfb614c292b76157e4cd83f"
+  },
+  {
+    "path": "building_tool_v006.py",
+    "bytes": 7472,
+    "sha256": "0e14f82c15715d73fc094d793ce5a8da3942e9aff8c70db07ae642fc869a0fdd"
+  },
+  {
+    "path": "bundle_transaction.py",
+    "bytes": 1178,
+    "sha256": "8d537c270672d9d954f75f7a33b484093087d69c8fddf21ddb88e42e32f9af58"
+  },
+  {
+    "path": "config.example.json",
+    "bytes": 149,
+    "sha256": "9989561e7aac9bb5df8bb0530bd69937f4b7276fcdc62828f83880895b917449"
+  },
+  {
+    "path": "exports/medieval_guildhall_v006.mtl",
+    "bytes": 1608,
+    "sha256": "ef6b95e3d4d5389a852dc9e4045682d4c88946038a1004e8e90a5247d21d6b46"
+  },
+  {
+    "path": "exports/medieval_guildhall_v006.obj",
+    "bytes": 1150811,
+    "sha256": "6eb0bdf5491dc49c976cb20132f4a26f3037e03c56514371ff6296943f13bbc7"
+  },
+  {
+    "path": "exports/medieval_guildhall_v006.png",
+    "bytes": 88137,
+    "sha256": "9da2b248fe7002bc380820326183bf9fa4a9c7279941c2ca7c584ed841e3413f"
+  },
+  {
+    "path": "exports/medieval_guildhall_v006.spec.json",
+    "bytes": 254,
+    "sha256": "766574b37c0016bf9a56d726c2acdf423ed2e259c04a9a1dde9fdd638afafc02"
+  },
+  {
+    "path": "exports/medieval_home_v006.mtl",
+    "bytes": 1608,
+    "sha256": "08f18570e513b5040660667862c4fc52b3fade174dd97ad0f64c695dd9ae315c"
+  },
+  {
+    "path": "exports/medieval_home_v006.obj",
+    "bytes": 417381,
+    "sha256": "a5ce10eb2df3473002813b7a099e8459515a727e8a53f68e1be9745c6e93876c"
+  },
+  {
+    "path": "exports/medieval_home_v006.png",
+    "bytes": 74137,
+    "sha256": "1c16a4490e1b481d121e1619534bd32491e90ae28717decd9cb3ad71df3f117a"
+  },
+  {
+    "path": "exports/medieval_home_v006.spec.json",
+    "bytes": 243,
+    "sha256": "cc492e25990f25b9aa0351a51b2be999139813cf982cc2760dd4babeb1c14e7b"
+  },
+  {
+    "path": "exports/medieval_inn_v006.mtl",
+    "bytes": 1608,
+    "sha256": "ef6b95e3d4d5389a852dc9e4045682d4c88946038a1004e8e90a5247d21d6b46"
+  },
+  {
+    "path": "exports/medieval_inn_v006.obj",
+    "bytes": 418358,
+    "sha256": "5a5f008cfdc63cb2796abc8e716816f5801ddc8a3e4f860c9ea15390fc730a38"
+  },
+  {
+    "path": "exports/medieval_inn_v006.png",
+    "bytes": 80646,
+    "sha256": "c327f616b577e78c59a9b4ed597e9eb36b3d32397e99270d4e7ce89c77b0d89f"
+  },
+  {
+    "path": "exports/medieval_inn_v006.spec.json",
+    "bytes": 238,
+    "sha256": "1c9f88318a15a7a8cf4e11ae519768d33019b597e44f80390a1bae91a0e63919"
+  },
+  {
+    "path": "exports/medieval_shop_v006.mtl",
+    "bytes": 1608,
+    "sha256": "1e04a7d462a54a8e924bda96f516b6e0c02aecc96902acae8f0b0eafacbc569c"
+  },
+  {
+    "path": "exports/medieval_shop_v006.obj",
+    "bytes": 726127,
+    "sha256": "92a934f3ac385f46a0c4c40045e93135c7eae170fc08e0ce39fda8af20689c75"
+  },
+  {
+    "path": "exports/medieval_shop_v006.png",
+    "bytes": 81096,
+    "sha256": "28aafcee0b6825a82d244393a755d3def464f09b35381d8a57cb45537f3b60b4"
+  },
+  {
+    "path": "exports/medieval_shop_v006.spec.json",
+    "bytes": 249,
+    "sha256": "39d4bed8ee68c0607012a80d506c642fcae01bf1d4b67796539d8ea94723a79a"
+  },
+  {
+    "path": "exports/medieval_smithy_v006.mtl",
+    "bytes": 1608,
+    "sha256": "ef6b95e3d4d5389a852dc9e4045682d4c88946038a1004e8e90a5247d21d6b46"
+  },
+  {
+    "path": "exports/medieval_smithy_v006.obj",
+    "bytes": 476647,
+    "sha256": "936eddbd3c0ba048ffd0304d3a23e8e16afe67ce12a21e98a5d601c1001aaec1"
+  },
+  {
+    "path": "exports/medieval_smithy_v006.png",
+    "bytes": 80146,
+    "sha256": "e714d312167c6c10ac1ee9cb50412b6c74ebe26c0db5761871a1704374265d53"
+  },
+  {
+    "path": "exports/medieval_smithy_v006.spec.json",
+    "bytes": 253,
+    "sha256": "fba79538acbe5797eb340308a8cdc8abfb95586d8a5d4d5e31a364957b850cf4"
+  },
+  {
+    "path": "exports/medieval_watchhouse_v006.mtl",
+    "bytes": 1608,
+    "sha256": "08f18570e513b5040660667862c4fc52b3fade174dd97ad0f64c695dd9ae315c"
+  },
+  {
+    "path": "exports/medieval_watchhouse_v006.obj",
+    "bytes": 530311,
+    "sha256": "36789c9d9025acdcb7f0eafe1daeb6efb9a59f86fed05de29afa77a6601d4a11"
+  },
+  {
+    "path": "exports/medieval_watchhouse_v006.png",
+    "bytes": 76200,
+    "sha256": "b58d554690289b22ac00297ed24555e5947491975e383be664ec10a9cdc0e05c"
+  },
+  {
+    "path": "exports/medieval_watchhouse_v006.spec.json",
+    "bytes": 254,
+    "sha256": "b5cf71c5bf248569889b94d62db9fc2fc7a8e0d1d1dd80c6bc1772d76722c71e"
+  },
+  {
+    "path": "houdini_design_worker.py",
+    "bytes": 1267,
+    "sha256": "5d3629cf578958ccf764c8332c17727f09eaf42b9daa6f758e07f2e66a1514df"
+  },
+  {
+    "path": "maintenance/build_medieval_v006.py",
+    "bytes": 4311,
+    "sha256": "9528e86bbd974f28351630341997174d37b0158b3b9f9bbbfa2b6bd255b8451a"
+  },
+  {
+    "path": "maintenance/build_tool_v006.py",
+    "bytes": 7677,
+    "sha256": "19bf0849d22af3ea5a5a0ece56842fb8bb6a4c9e42d815eede6b102cad44e5ad"
+  },
+  {
+    "path": "maintenance/import_medieval_v006.py",
+    "bytes": 1754,
+    "sha256": "f95ad291dba53bfb9ef1745486b4a34e0fa46eeed9e9292808a3a0619221632d"
+  },
+  {
+    "path": "maintenance/render_medieval_preview.py",
+    "bytes": 3596,
+    "sha256": "64abad0f36144020b59ce918845dd6e2c1fda07d67449c6016707c7d93a8c596"
+  },
+  {
+    "path": "medieval_collection_v006.json",
+    "bytes": 1479,
+    "sha256": "5234a1f3adb0c389a620554e3fb56a3d8600673bc3f6cf80e664d1a9b18bfd69"
+  },
+  {
+    "path": "medieval_design.py",
+    "bytes": 7371,
+    "sha256": "a6caedb465bb3e836477561933d187a934ce707841e3bf929f17d243b0dcacb0"
+  },
+  {
+    "path": "medieval_geometry.py",
+    "bytes": 21848,
+    "sha256": "7b97881e3d408837e3f1b02e6b8471183cd0cbd22098a6a9496d043e6752240e"
+  },
+  {
+    "path": "medieval_identities.py",
+    "bytes": 8947,
+    "sha256": "7294383aa18ef5631a71850e3f2cf6ccf9c7c9b123c5b4d02e65de2319ed81a9"
+  },
+  {
+    "path": "medieval_legacy_parts.py",
+    "bytes": 10082,
+    "sha256": "94eb3a9d9417197829f9761f1e42f68321018c1669302d483c425740e713218c"
+  },
+  {
+    "path": "MEDIEVAL_V006.md",
+    "bytes": 1912,
+    "sha256": "9ce597f6495e20556df5c24a3100baeb959232a8da53113adb393709a93f8641"
+  },
+  {
+    "path": "README.md",
+    "bytes": 126,
+    "sha256": "475cfef48f483d953d2d318187abdea471d2d1b346ce7b65482e4b60484c1bad"
+  },
+  {
+    "path": "setup_api.ps1",
+    "bytes": 1517,
+    "sha256": "948cb685b780b1f60587d5daf6195be896cebd301ec19ff557a70b90d25c8740"
+  },
+  {
+    "path": "SetupBuildingAI.cmd",
+    "bytes": 109,
+    "sha256": "718f0fa29ee0c170052b0a4fcb0a754c66a3c726a8b58f45f32719e30a0f551c"
+  },
+  {
+    "path": "TOOL_V006.md",
+    "bytes": 2788,
+    "sha256": "7308d1b917d655919c4f05154287349c01e843e89078aa9eb013b51f315be03a"
+  },
+  {
+    "path": "UE_AI_QUICKSTART.md",
+    "bytes": 634,
+    "sha256": "9386a4984efac00e680e69b4d7d177a2ba8dc51cb40f958a0edc7ed53660d7a7"
+  },
+  {
+    "path": "ue_building_tool.py",
+    "bytes": 5833,
+    "sha256": "3bf466e8a7036c779fe57a4632fda012a0e7d8f56b2304cfe5e9401029a62c5f"
+  },
+  {
+    "path": "ue_medieval_materials.py",
+    "bytes": 2150,
+    "sha256": "dc74a648b2455f81ddf30929a86bd3bca6327482f2e1bd4e9ba94550e7710875"
+  }
+]

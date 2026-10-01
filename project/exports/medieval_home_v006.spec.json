@@ -1,0 +1,13 @@
+{
+  "schema_version": 2,
+  "purpose": "home",
+  "scale": "small",
+  "silhouette": "balanced",
+  "layout": "compact",
+  "roof": "steep_gable",
+  "palette": "moss",
+  "detail": "rich",
+  "seed": 17,
+  "locks": [],
+  "overrides": {}
+}

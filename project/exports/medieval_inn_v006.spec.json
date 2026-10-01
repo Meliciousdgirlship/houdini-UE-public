@@ -1,0 +1,13 @@
+{
+  "schema_version": 2,
+  "purpose": "shop",
+  "scale": "small",
+  "silhouette": "tall",
+  "layout": "tower",
+  "roof": "steep_gable",
+  "palette": "slate",
+  "detail": "rich",
+  "seed": 17,
+  "locks": [],
+  "overrides": {}
+}

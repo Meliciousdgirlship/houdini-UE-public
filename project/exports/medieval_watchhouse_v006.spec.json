@@ -1,0 +1,13 @@
+{
+  "schema_version": 2,
+  "purpose": "watchhouse",
+  "scale": "medium",
+  "silhouette": "balanced",
+  "layout": "tower",
+  "roof": "steep_gable",
+  "palette": "moss",
+  "detail": "restrained",
+  "seed": 17,
+  "locks": [],
+  "overrides": {}
+}

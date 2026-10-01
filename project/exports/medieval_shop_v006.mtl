@@ -1,0 +1,119 @@
+newmtl plaster
+Kd 0.79000 0.71000 0.56000
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl roof
+Kd 0.38000 0.10500 0.08000
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl shutter
+Kd 0.26000 0.34000 0.25000
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl wood
+Kd 0.22000 0.11500 0.05800
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl wood_light
+Kd 0.40000 0.24500 0.12000
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl stone
+Kd 0.43000 0.43000 0.37000
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl stone_light
+Kd 0.54000 0.53000 0.45000
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl iron
+Kd 0.10000 0.11500 0.10500
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl glass
+Kd 0.12000 0.18000 0.17000
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl glow
+Kd 0.95000 0.61000 0.20000
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl brass
+Kd 0.65000 0.43000 0.12000
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl foliage
+Kd 0.23000 0.34000 0.14000
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl cloth
+Kd 0.75000 0.63000 0.39000
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl roof_light
+Kd 0.44080 0.12180 0.09280
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl roof_dark
+Kd 0.31920 0.08820 0.06720
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl terracotta
+Kd 0.61000 0.26000 0.13000
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl fruit
+Kd 0.68000 0.15000 0.08000
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl produce
+Kd 0.56000 0.64000 0.18000
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl cream
+Kd 0.91000 0.83000 0.61000
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8
+
+newmtl banner
+Kd 0.30000 0.13000 0.22000
+Ka 0.05 0.05 0.05
+Ks 0 0 0
+Ns 8

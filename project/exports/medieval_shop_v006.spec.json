@@ -1,0 +1,13 @@
+{
+  "schema_version": 2,
+  "purpose": "shop",
+  "scale": "medium",
+  "silhouette": "balanced",
+  "layout": "left_wing",
+  "roof": "steep_gable",
+  "palette": "oxblood",
+  "detail": "rich",
+  "seed": 17,
+  "locks": [],
+  "overrides": {}
+}

@@ -1,0 +1,10 @@
+**/__pycache__/
+**/*.pyc
+**/config.local.json
+**/api.local.json
+**/.env
+**/.env.*
+**/exports/building_job_*/
+**/exports/previous_success/
+**/*.pending
+**/backup/

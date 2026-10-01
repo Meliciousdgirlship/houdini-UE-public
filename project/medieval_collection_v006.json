@@ -1,0 +1,74 @@
+[
+  {
+    "purpose": "inn",
+    "label": "旅馆",
+    "node": "/obj/medieval_inn",
+    "obj": "exports/medieval_inn_v006.obj",
+    "asset": "SM_MedievalInn",
+    "position_m": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "purpose": "home",
+    "label": "住宅",
+    "node": "/obj/medieval_home",
+    "obj": "exports/medieval_home_v006.obj",
+    "asset": "SM_MedievalHome",
+    "position_m": [
+      28,
+      0,
+      0
+    ]
+  },
+  {
+    "purpose": "shop",
+    "label": "商店",
+    "node": "/obj/medieval_shop",
+    "obj": "exports/medieval_shop_v006.obj",
+    "asset": "SM_MedievalShop",
+    "position_m": [
+      56,
+      0,
+      0
+    ]
+  },
+  {
+    "purpose": "smithy",
+    "label": "铁匠铺",
+    "node": "/obj/medieval_smithy",
+    "obj": "exports/medieval_smithy_v006.obj",
+    "asset": "SM_MedievalSmithy",
+    "position_m": [
+      0,
+      0,
+      26
+    ]
+  },
+  {
+    "purpose": "guildhall",
+    "label": "公会馆 · 塔楼连桥",
+    "node": "/obj/medieval_guildhall",
+    "obj": "exports/medieval_guildhall_v006.obj",
+    "asset": "SM_MedievalGuildhall",
+    "position_m": [
+      28,
+      0,
+      26
+    ]
+  },
+  {
+    "purpose": "watchhouse",
+    "label": "守卫所 · 贴合塔楼",
+    "node": "/obj/medieval_watchhouse",
+    "obj": "exports/medieval_watchhouse_v006.obj",
+    "asset": "SM_MedievalWatchhouse",
+    "position_m": [
+      56,
+      0,
+      26
+    ]
+  }
+]
